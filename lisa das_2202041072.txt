@@ -2,3 +2,7 @@ NAME    :LISA DAS
 BRANCH  :COMPUTER SCIENCE ENGINEERING
 REGD NO :2202041072
 DOMAIN  :CS
+INTRO   :my name is Lisa Das.
+         I am from Bhubaneswar.
+         I am interested in web development.
+         My hobbies are sketching & singing.
